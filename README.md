@@ -1,6 +1,6 @@
 # Breakout Deluxe - PyQt6 Edition
 
-A revolutionary Breakout game experience built with PyQt6, featuring groundbreaking mechanics and visual effects you won't find in any other Breakout implementation.
+A revolutionary Breakout game experience built with PyQt6, featuring groundbreaking mechanics and visual effects.
 
 # Install dependencies
 pip install PyQt6 pygame numpy
