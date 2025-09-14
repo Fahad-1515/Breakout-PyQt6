@@ -5,6 +5,9 @@ A revolutionary Breakout game experience built with PyQt6, featuring groundbreak
 # Install dependencies
 pip install PyQt6 pygame numpy
 
+
+<img width="977" height="733" alt="Screenshot 2025-09-14 223736" src="https://github.com/user-attachments/assets/92878886-1107-498d-9210-23afeaf2aab7" />
+
 ## Exclusive Advanced Features🎯
 
 Realistic physics simulation with adjustable attraction force
