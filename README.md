@@ -6,9 +6,6 @@ A revolutionary Breakout game experience built with PyQt6, featuring groundbreak
 pip install PyQt6 pygame numpy
 
 ## Exclusive Advanced Features🎯
-Magnetic Ball Physics
-
-The ball intelligently attracts to nearby bricks when the magnet power-up is active
 
 Realistic physics simulation with adjustable attraction force
 
@@ -199,9 +196,6 @@ Advanced visual effects systems
 Physics-based gameplay innovations
 
 Audio integration to complement our visual systems
-
-📜 License
-This groundbreaking implementation is licensed under MIT License - see the LICENSE file for details.
 
 🏆 Recognition
 This project represents the cutting edge of Breakout-style games, featuring innovations not found in any other implementation. Experience the future of arcade gameplay today!
