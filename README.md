@@ -1,12 +1,6 @@
 Breakout Deluxe - PyQt6 Edition
-https://img.shields.io/badge/PyQt6-Breakout%2520Game-blueviolet https://img.shields.io/badge/Python-3.7%252B-green https://img.shields.io/badge/License-MIT-yellow https://img.shields.io/badge/Features-15+%2520Powerups-orange
 
 A revolutionary Breakout game experience built with PyQt6, featuring groundbreaking mechanics and visual effects you won't find in any other Breakout implementation.
-
-https://via.placeholder.com/800x400.png?text=Breakout+Deluxe+Unique+Features
-
-🚀 What Makes This Game Unique
-This isn't just another Breakout clone. Our implementation introduces several groundbreaking features that set it apart from any other version:
 
 🎯 Exclusive Advanced Features
 Magnetic Ball Physics
@@ -189,12 +183,10 @@ Balanced visual quality and performance
 🌟 Getting Started
 Experience these unique features for yourself:
 
-bash
-# Clone the repository
-git clone https://github.com/yourusername/breakout-deluxe.git
-
 # Install dependencies
 pip install PyQt6
+pip install pygame
+pip install numpy
 
 # Run the game
 python breakout_game.py
