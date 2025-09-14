@@ -1,4 +1,4 @@
-### Breakout Deluxe - PyQt6 Edition
+# Breakout Deluxe - PyQt6 Edition
 
 A revolutionary Breakout game experience built with PyQt6, featuring groundbreaking mechanics and visual effects you won't find in any other Breakout implementation.
 
