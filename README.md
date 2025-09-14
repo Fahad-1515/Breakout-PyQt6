@@ -184,9 +184,7 @@ Balanced visual quality and performance
 Experience these unique features for yourself:
 
 # Install dependencies
-pip install PyQt6
-pip install pygame
-pip install numpy
+pip install PyQt6 pygame numpy
 
 # Run the game
 python breakout_game.py
