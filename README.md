@@ -2,6 +2,9 @@
 
 A revolutionary Breakout game experience built with PyQt6, featuring groundbreaking mechanics and visual effects you won't find in any other Breakout implementation.
 
+# Install dependencies
+pip install PyQt6 pygame numpy
+
 ## Exclusive Advanced Features🎯
 Magnetic Ball Physics
 
@@ -183,8 +186,6 @@ Balanced visual quality and performance
 🌟 Getting Started
 Experience these unique features for yourself:
 
-# Install dependencies
-pip install PyQt6 pygame numpy
 
 # Run the game
 python breakout_game.py
