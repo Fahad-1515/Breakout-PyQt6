@@ -19,61 +19,6 @@ Fully simulated gravitational physics with distance-based force calculations
 
 Visual distortion effects that make the well feel truly powerful
 
-Multi-Stage Power-ups
-
-Ghost Ball: Passes through 5 bricks before returning to normal
-
-Bomb Ball: Explodes and destroys nearby bricks (3 explosions per power-up)
-
-Progressive power-up system that evolves during gameplay
-
-Dynamic Visual Effects
-
-Real-time ball trails with rainbow color cycling
-
-Particle explosion systems with physics-based movement
-
-Pulsing power-up animations that make collectibles more visible
-
-Time-slowing visual effects that tint the entire game world
-
-Intelligent Brick Generation System
-
-Hybrid level design with predefined layouts and random power-up placement
-
-Smart replacement algorithm that ensures power-up bricks don't overlap
-
-Balanced distribution of special brick types throughout levels
-
-Advanced Power-up Feedback System
-
-Visual text indicators when collecting power-ups
-
-Animated collection effects with particle bursts
-
-Status display showing all active power-ups
-
-Color-coded power-up system for instant recognition
-
-Teleportation Mechanics
-
-Mouse and keyboard controlled paddle teleportation
-
-Visual teleportation effects with particle trails
-
-Limited-use system that requires strategic thinking
-
-Time Manipulation
-
-Adjustable game speed that affects all game objects
-
-Visual indicators when time is slowed
-
-Balanced duration system to prevent game breaking
-
-## Power-Up System (15 Unique Abilities)🎮 
-Our game features the most comprehensive power-up system of any Breakout implementation:
-
 ## Standard Power-ups Enhanced:
 Expand/Shrink: Precisely centered resizing with visual feedback
 
