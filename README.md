@@ -1,8 +1,8 @@
-Breakout Deluxe - PyQt6 Edition
+## Breakout Deluxe - PyQt6 Edition
 
 A revolutionary Breakout game experience built with PyQt6, featuring groundbreaking mechanics and visual effects you won't find in any other Breakout implementation.
 
-🎯 Exclusive Advanced Features
+## Exclusive Advanced Features🎯
 Magnetic Ball Physics
 
 The ball intelligently attracts to nearby bricks when the magnet power-up is active
@@ -71,17 +71,17 @@ Visual indicators when time is slowed
 
 Balanced duration system to prevent game breaking
 
-🎮 Power-Up System (15 Unique Abilities)
+## Power-Up System (15 Unique Abilities)🎮 
 Our game features the most comprehensive power-up system of any Breakout implementation:
 
-Standard Power-ups Enhanced:
+## Standard Power-ups Enhanced:
 Expand/Shrink: Precisely centered resizing with visual feedback
 
 Multiball: Physics-aware ball creation with varied trajectories
 
 Sticky Paddle: Visual indicator and controlled ball release
 
-Exclusive Power-ups:
+## Exclusive Power-ups:
 Magnet: Intelligent brick attraction system
 
 Time Slow: World-wide time manipulation affecting all objects
@@ -98,7 +98,7 @@ Rainbow Trail: Dynamic visual effect that follows the ball
 
 Shield: Damage-absorbing barrier with health system
 
-🎨 Technical Innovations
+## Technical Innovations
 Advanced QGraphicsView Implementation
 
 Custom background rendering with state-based effects
@@ -169,7 +169,7 @@ Visual effects that correspond to game events
 
 Polished animations throughout
 
-📊 Performance Optimization
+## Performance Optimization📊
 Despite the advanced features, our implementation maintains smooth performance through:
 
 Efficient object pooling and recycling
