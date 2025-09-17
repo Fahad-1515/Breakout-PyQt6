@@ -5,6 +5,8 @@ A revolutionary Breakout game experience built with PyQt6, featuring groundbreak
 # Install dependencies
 pip install PyQt6 pygame numpy
 
+# Run the game
+python breakout_game.py
 
 <img width="977" height="733" alt="Screenshot 2025-09-14 223736" src="https://github.com/user-attachments/assets/92878886-1107-498d-9210-23afeaf2aab7" />
 
@@ -131,9 +133,6 @@ Balanced visual quality and performance
 🌟 Getting Started
 Experience these unique features for yourself:
 
-
-# Run the game
-python breakout_game.py
 🤝 Contributing to Innovation
 We welcome contributions that push the boundaries of what's possible in Breakout-style games. Areas of particular interest:
 
