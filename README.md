@@ -50,28 +50,18 @@ Shield: Damage-absorbing barrier with health system
 
 ## Technical Innovations
 Advanced QGraphicsView Implementation
-
 Custom background rendering with state-based effects
-
 Optimized particle system with automatic cleanup
-
 Efficient collision detection using scene bounding rectangles
-
 Sophisticated Game State Management
-
 Power-up timing system with automatic reversion
-
 Complex game state tracking with multiple simultaneous power-ups
-
 Memory management with automatic object cleanup
-
-Visual Effect System
-
+Visual Effect Syste
 Radial gradients for advanced lighting effects
-
 Dynamic color interpolation for smooth transitions
 
-Layered rendering for depth and immersion
+Layered rendering for depth and immersio
 
 Physics Engine
 
